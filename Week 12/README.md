@@ -1,7 +1,6 @@
 # Week 12 
 ## Cole Adams did task 1
-## Sprites Credits: 
-### https://posemy.art/app/?lang=en
+## Sprites Credits: https://posemy.art/app/?lang=en
 
 ## Nicolas Salazar did --
 
