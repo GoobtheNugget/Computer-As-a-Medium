@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
         {
             speedX = -moveSpeed;
             spriteRenderer.sprite = botleft;
-            weaponsTransform.localRotation = Quaternion.Euler(0, 0, 180);
+            weaponsTransform.localRotation = Quaternion.Euler(-180, 0, -180);
         }
         else if (Keyboard.current.dKey.isPressed)
         {
